@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  vllm-offline-serving:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-11-18T13:42:13.040302044+05:00"
+    description: A Helm chart for deploying vLLM cluster on Kubernetes for offline
+      serving.
+    digest: 2e3fbb8bad671eaa13ece684168a0559eca848fac5804fff9975c7355794b040
+    keywords:
+    - vllm
+    - machine learning
+    - gpu
+    maintainers:
+    - email: shahriyarraheel786@gmail.com
+      name: choudhry-shehryar
+    name: vllm-offline-serving
+    type: application
+    urls:
+    - vllm-offline-serving-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-18T13:42:13.038617796+05:00"
